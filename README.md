@@ -67,7 +67,15 @@ While building this project, I practiced:
 
 ## Project Screenshot
 
-![Screenshot 1](case_study1.png)
+![screenshot1](CASESTUDY_1_SCREENSHOT1.png)
+
+![screenshot2](CASESTUDY_1_SCREENSHOT.png)
+
+![Screenshot 3](case_study1.png)
+
+![screenshot 4](CASESTUDY_1_SCREENSHOT3.png)
+
+
 
 ## Key Features
 
