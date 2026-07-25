@@ -67,9 +67,9 @@ While building this project, I practiced:
 
 ## Project Screenshot
 
-![screenshot1](CASESTUDY_1_SCREENSHOT1.png)
-
 ![screenshot2](CASESTUDY_1_SCREENSHOT.png)
+
+![screenshot1](CASESTUDY_1_SCREENSHOT1.png)
 
 ![Screenshot 3](case_study1.png)
 
