@@ -67,6 +67,8 @@ While building this project, I practiced:
 
 ## Project Screenshot
 
+!(Screenshot 1)
+(case_study1.png)
 
 ## Key Features
 
