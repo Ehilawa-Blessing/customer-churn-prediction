@@ -1,4 +1,4 @@
-# Customer Churn Prediction System
+# Customer Churn Prediction 
 
 A Python project that analyzes customer behavior and identifies customers who may be at risk of leaving a telecommunications company using core Python concepts.
 
